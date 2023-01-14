@@ -210,3 +210,6 @@ $RECYCLE.BIN/
 /Builder/Builder.iml
 /Factory Method/Factory Method.iml
 /Prototype/Prototype.iml
+/Adapter/Adapter.iml
+/Bridge/Bridge.iml
+/Singleton/Singleton.iml
